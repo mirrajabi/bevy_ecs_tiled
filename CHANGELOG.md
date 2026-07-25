@@ -2,6 +2,8 @@
 
 ## [unreleased]
 
+## v0.13.2
+
 ### Features
 
 - Update tiled-rs v0.16
